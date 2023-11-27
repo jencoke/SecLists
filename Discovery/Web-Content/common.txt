@@ -1,4 +1,4 @@
-.bash_history
+https://github.com/danielmiessler/SecLists/blob/836489404056860b5b8c6d71b6672565dedbe4de/Discovery/Web-Content/common.txt.bash_history
 .bashrc
 .cache
 .config
